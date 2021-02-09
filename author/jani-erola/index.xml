@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jani Erola | Marcel Raab</title>
+    <link>https://marcelraab.de/author/jani-erola/</link>
+      <atom:link href="https://marcelraab.de/author/jani-erola/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jani Erola</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://marcelraab.de/images/icon_hud161faa3126aab72ef396b267d8f191d_2937_512x512_fill_lanczos_center_2.png</url>
+      <title>Jani Erola</title>
+      <link>https://marcelraab.de/author/jani-erola/</link>
+    </image>
+    
+    <item>
+      <title>Destination as a Process: Sibling Similarity in Early Socioeconomic Trajectories</title>
+      <link>https://marcelraab.de/publication/karhula2019/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://marcelraab.de/publication/karhula2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sibling Similarity in Family Formation</title>
+      <link>https://marcelraab.de/publication/raab2014/2014-01-01_raab2014/</link>
+      <pubDate>Fri, 31 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>https://marcelraab.de/publication/raab2014/2014-01-01_raab2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

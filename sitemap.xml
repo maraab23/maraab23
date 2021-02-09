@@ -1,329 +1,345 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/courses/example/example1/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+    <loc>https://marcelraab.de/courses/example/python/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/courses/example/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+    <loc>https://marcelraab.de/courses/example/visualization/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/courses/example/example2/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+    <loc>https://marcelraab.de/courses/example/stats/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/example/</loc>
+    <loc>https://marcelraab.de/talk/example-talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://marcelraab.de/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/talk/</loc>
+    <loc>https://marcelraab.de/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+    <loc>https://marcelraab.de/courses/</loc>
+    <lastmod>2021-01-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/writing-technical-content/</loc>
+    <loc>https://marcelraab.de/courses/example/</loc>
+    <lastmod>2021-01-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://marcelraab.de/tag/academic/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://marcelraab.de/authors/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://marcelraab.de/categories/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://marcelraab.de/category/demo/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://marcelraab.de/author/marcel-raab/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://marcelraab.de/post/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://marcelraab.de/tags/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://marcelraab.de/post/getting-started/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://marcelraab.de/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://marcelraab.de/tag/%E5%BC%80%E6%BA%90/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://marcelraab.de/category/%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://marcelraab.de/post/2020-12-01-r-rmarkdown/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://marcelraab.de/tag/plot/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://marcelraab.de/category/r/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://marcelraab.de/tag/r-markdown/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://marcelraab.de/tag/regression/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://marcelraab.de/publication-type/2/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://marcelraab.de/author/emanuela-struffolino/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://marcelraab.de/publication_types/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://marcelraab.de/publication/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://marcelraab.de/publication/raab2019/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://marcelraab.de/post/writing-technical-content/</loc>
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/raab-m./</loc>
-    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+    <loc>https://marcelraab.de/author/aleksi-karhula/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication_types/2/</loc>
-    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+    <loc>https://marcelraab.de/author/anette-fasang/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/</loc>
+    <loc>https://marcelraab.de/publication/karhula2019/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://marcelraab.de/author/jani-erola/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://marcelraab.de/post/jupyter/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/karhula2019/</loc>
-    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/erola-j./</loc>
-    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/fasang-a.e./</loc>
-    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/karhula-a./</loc>
-    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/admin/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/jupyter/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/slides/</loc>
+    <loc>https://marcelraab.de/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/slides/example/</loc>
+    <loc>https://marcelraab.de/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/struffolino-e./</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/raab2019/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/privacy/</loc>
+    <loc>https://marcelraab.de/privacy/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/hess-m./</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <loc>https://marcelraab.de/author/moritz-hess/</loc>
+    <lastmod>2018-05-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/raab2018/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <loc>https://marcelraab.de/publication/raab2018/</loc>
+    <lastmod>2018-05-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/raab2017/2017-01-01_raab2017/</loc>
+    <loc>https://marcelraab.de/publication/raab2017/2017-01-01_raab2017/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/deep-learning/</loc>
+    <loc>https://marcelraab.de/tag/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/demo/</loc>
+    <loc>https://marcelraab.de/tag/demo/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/external-project/</loc>
+    <loc>https://marcelraab.de/project/external-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/internal-project/</loc>
+    <loc>https://marcelraab.de/project/internal-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/</loc>
+    <loc>https://marcelraab.de/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <loc>https://marcelraab.de/publication/raab2014/2014-01-01_raab2014/</loc>
+    <lastmod>2014-10-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/academic/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <loc>https://marcelraab.de/publication/fasang2014/</loc>
+    <lastmod>2014-08-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/getting-started/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/demo/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/2015-07-23-r-rmarkdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/plot/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/r/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/r-markdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/regression/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/fasang2014/</loc>
+    <loc>https://marcelraab.de/author/henriette-engelhardt/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/engelhardt-h./</loc>
+    <loc>https://marcelraab.de/publication/leopold2014/2014-01-01_leopold2014/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/leopold-t./</loc>
+    <loc>https://marcelraab.de/author/thomas-leopold/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/raab2014/2014-01-01_raab2014/</loc>
-    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/leopold2014/2014-01-01_leopold2014/</loc>
-    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/leopold2013/2013-01-01_leopold2013/</loc>
+    <loc>https://marcelraab.de/publication/leopold2013/2013-01-01_leopold2013/</loc>
     <lastmod>2013-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication_types/4/</loc>
+    <loc>https://marcelraab.de/publication-type/4/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/zielonka2012/2012-01-01_zielonka2012/</loc>
+    <loc>https://marcelraab.de/author/jan-skopek/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/skopek-j./</loc>
+    <loc>https://marcelraab.de/author/markus-zielonka/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/zielonka-m./</loc>
+    <loc>https://marcelraab.de/publication/zielonka2012/2012-01-01_zielonka2012/</loc>
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/leopold2011a/2011-01-01_leopold2011a/</loc>
+    <loc>https://marcelraab.de/publication/leopold2011a/2011-01-01_leopold2011a/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/leopold2011/2011-01-01_leopold2011/</loc>
+    <loc>https://marcelraab.de/publication/leopold2011/2011-01-01_leopold2011/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication_types/6/</loc>
+    <loc>https://marcelraab.de/publication-type/6/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/blossfeld-h.-p./</loc>
+    <loc>https://marcelraab.de/author/benno-schonberger/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/buchholz-s./</loc>
+    <loc>https://marcelraab.de/author/dirk-hofacker/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/ruland2009/2009-01-01_ruland2009/</loc>
+    <loc>https://marcelraab.de/publication/ruland2009/2009-01-01_ruland2009/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/blossfeld2009/2009-01-01_blossfeld2009/</loc>
+    <loc>https://marcelraab.de/publication/blossfeld2009/2009-01-01_blossfeld2009/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/hofacker-d./</loc>
+    <loc>https://marcelraab.de/author/hans-peter-blossfeld/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/ruland-m./</loc>
+    <loc>https://marcelraab.de/author/michael-ruland/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/schmelzer-p./</loc>
+    <loc>https://marcelraab.de/author/paul-schmelzer/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/schonberger-b./</loc>
+    <loc>https://marcelraab.de/author/sandra-buchholz/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/raab2008/</loc>
+    <loc>https://marcelraab.de/publication/raab2008/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/courses/</loc>
   </url>
   
 </urlset>
