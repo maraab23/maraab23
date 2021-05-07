@@ -343,7 +343,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-457923186&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-861342597&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -353,7 +353,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-457923186&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-861342597&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -862,9 +862,9 @@ Heinrichsdamm 4
     
     <item>
       <title>Childhood Family Structure and Early Family Formation in East and West Germany</title>
-      <link>https://marcelraab.de/publication/raab2017/2017-01-01_raab2017/</link>
+      <link>https://marcelraab.de/publication/raab2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://marcelraab.de/publication/raab2017/2017-01-01_raab2017/</guid>
+      <guid>https://marcelraab.de/publication/raab2017/</guid>
       <description>&lt;html&gt;
   &lt;style&gt;
     section {
@@ -926,9 +926,9 @@ Heinrichsdamm 4
     
     <item>
       <title>Sibling Similarity in Family Formation</title>
-      <link>https://marcelraab.de/publication/raab2014/2014-01-01_raab2014/</link>
+      <link>https://marcelraab.de/publication/raab2014/</link>
       <pubDate>Fri, 31 Oct 2014 00:00:00 +0000</pubDate>
-      <guid>https://marcelraab.de/publication/raab2014/2014-01-01_raab2014/</guid>
+      <guid>https://marcelraab.de/publication/raab2014/</guid>
       <description>&lt;html&gt;
   &lt;style&gt;
     section {
@@ -1012,9 +1012,9 @@ Heinrichsdamm 4
     
     <item>
       <title>The Transition to Parent Care: Costs, Commitments, and Caregiver Selection Among Children</title>
-      <link>https://marcelraab.de/publication/leopold2014/2014-01-01_leopold2014/</link>
+      <link>https://marcelraab.de/publication/leopold2014/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://marcelraab.de/publication/leopold2014/2014-01-01_leopold2014/</guid>
+      <guid>https://marcelraab.de/publication/leopold2014/</guid>
       <description>&lt;html&gt;
   &lt;style&gt;
     section {
@@ -1055,9 +1055,9 @@ Heinrichsdamm 4
     
     <item>
       <title>The temporal structure of intergenerational exchange: A within-family analysis of parent-child reciprocity</title>
-      <link>https://marcelraab.de/publication/leopold2013/2013-01-01_leopold2013/</link>
+      <link>https://marcelraab.de/publication/leopold2013/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://marcelraab.de/publication/leopold2013/2013-01-01_leopold2013/</guid>
+      <guid>https://marcelraab.de/publication/leopold2013/</guid>
       <description>&lt;html&gt;
   &lt;style&gt;
     section {
@@ -1098,25 +1098,25 @@ Heinrichsdamm 4
     
     <item>
       <title>NEPS Data Manual. Curricular Reform Study in Thuringia (TH). SUF Version 1.0.0</title>
-      <link>https://marcelraab.de/publication/zielonka2012/2012-01-01_zielonka2012/</link>
+      <link>https://marcelraab.de/publication/zielonka2012/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://marcelraab.de/publication/zielonka2012/2012-01-01_zielonka2012/</guid>
+      <guid>https://marcelraab.de/publication/zielonka2012/</guid>
       <description></description>
     </item>
     
     <item>
       <title>NEPS Data Manual. Starting Cohort 6: Adult Education and Lifelong Learning</title>
-      <link>https://marcelraab.de/publication/leopold2011a/2011-01-01_leopold2011a/</link>
+      <link>https://marcelraab.de/publication/leopold2011a/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://marcelraab.de/publication/leopold2011a/2011-01-01_leopold2011a/</guid>
+      <guid>https://marcelraab.de/publication/leopold2011a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Short-Term Reciprocity in Late Parent-Child Relationships</title>
-      <link>https://marcelraab.de/publication/leopold2011/2011-01-01_leopold2011/</link>
+      <link>https://marcelraab.de/publication/leopold2011/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://marcelraab.de/publication/leopold2011/2011-01-01_leopold2011/</guid>
+      <guid>https://marcelraab.de/publication/leopold2011/</guid>
       <description>&lt;html&gt;
   &lt;style&gt;
     section {
@@ -1157,17 +1157,17 @@ Heinrichsdamm 4
     
     <item>
       <title>GlobalIndex - Ein soziologischer Ansatz zur Messung von Globalisierung</title>
-      <link>https://marcelraab.de/publication/ruland2009/2009-01-01_ruland2009/</link>
+      <link>https://marcelraab.de/publication/ruland2009/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>https://marcelraab.de/publication/ruland2009/2009-01-01_ruland2009/</guid>
+      <guid>https://marcelraab.de/publication/ruland2009/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Globalisierungsprozesse in modernen Gesellschaften</title>
-      <link>https://marcelraab.de/publication/blossfeld2009/2009-01-01_blossfeld2009/</link>
+      <link>https://marcelraab.de/publication/blossfeld2009/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>https://marcelraab.de/publication/blossfeld2009/2009-01-01_blossfeld2009/</guid>
+      <guid>https://marcelraab.de/publication/blossfeld2009/</guid>
       <description>&lt;html&gt;
   &lt;style&gt;
     section {
