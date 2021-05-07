@@ -1,3 +1,0 @@
-User-agent: *
-
-Sitemap: https://maraab23.github.io/sitemap.xml
