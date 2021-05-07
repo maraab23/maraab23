@@ -2,22 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Henriette Engelhardt | Marcel Raab</title>
-    <link>marcelraab.de/author/henriette-engelhardt/</link>
-      <atom:link href="marcelraab.de/author/henriette-engelhardt/index.xml" rel="self" type="application/rss+xml" />
+    <link>maraab23.github.io/website/author/henriette-engelhardt/</link>
+      <atom:link href="maraab23.github.io/website/author/henriette-engelhardt/index.xml" rel="self" type="application/rss+xml" />
     <description>Henriette Engelhardt</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/marcelraab.de/images/icon_hud161faa3126aab72ef396b267d8f191d_2937_512x512_fill_lanczos_center_2.png</url>
+      <url>/maraab23.github.io/website/images/icon_hud161faa3126aab72ef396b267d8f191d_2937_512x512_fill_lanczos_center_2.png</url>
       <title>Henriette Engelhardt</title>
-      <link>marcelraab.de/author/henriette-engelhardt/</link>
+      <link>maraab23.github.io/website/author/henriette-engelhardt/</link>
     </image>
     
     <item>
       <title>The Transition to Parent Care: Costs, Commitments, and Caregiver Selection Among Children</title>
-      <link>marcelraab.de/publication/leopold2014/</link>
+      <link>maraab23.github.io/website/publication/leopold2014/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-<<<<<<< HEAD
-      <guid>marcelraab.de/publication/leopold2014/</guid>
+      <guid>maraab23.github.io/website/publication/leopold2014/</guid>
       <description>&lt;html&gt;
   &lt;style&gt;
     section {
@@ -54,10 +53,6 @@
     &lt;/div&gt;
   &lt;/section&gt;
 </description>
-=======
-      <guid>https://marcelraab.de/publication/leopold2014/2014-01-01_leopold2014/</guid>
-      <description></description>
->>>>>>> parent of 6f2a3b6 (Badge & Teaching Update)
     </item>
     
   </channel>

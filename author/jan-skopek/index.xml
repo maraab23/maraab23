@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jan Skopek | Marcel Raab</title>
-    <link>marcelraab.de/author/jan-skopek/</link>
-      <atom:link href="marcelraab.de/author/jan-skopek/index.xml" rel="self" type="application/rss+xml" />
+    <link>maraab23.github.io/website/author/jan-skopek/</link>
+      <atom:link href="maraab23.github.io/website/author/jan-skopek/index.xml" rel="self" type="application/rss+xml" />
     <description>Jan Skopek</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/marcelraab.de/images/icon_hud161faa3126aab72ef396b267d8f191d_2937_512x512_fill_lanczos_center_2.png</url>
+      <url>/maraab23.github.io/website/images/icon_hud161faa3126aab72ef396b267d8f191d_2937_512x512_fill_lanczos_center_2.png</url>
       <title>Jan Skopek</title>
-      <link>marcelraab.de/author/jan-skopek/</link>
+      <link>maraab23.github.io/website/author/jan-skopek/</link>
     </image>
     
     <item>
       <title>NEPS Data Manual. Curricular Reform Study in Thuringia (TH). SUF Version 1.0.0</title>
-      <link>marcelraab.de/publication/zielonka2012/</link>
+      <link>maraab23.github.io/website/publication/zielonka2012/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>marcelraab.de/publication/zielonka2012/</guid>
+      <guid>maraab23.github.io/website/publication/zielonka2012/</guid>
       <description></description>
     </item>
     
     <item>
       <title>NEPS Data Manual. Starting Cohort 6: Adult Education and Lifelong Learning</title>
-      <link>marcelraab.de/publication/leopold2011a/</link>
+      <link>maraab23.github.io/website/publication/leopold2011a/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>marcelraab.de/publication/leopold2011a/</guid>
+      <guid>maraab23.github.io/website/publication/leopold2011a/</guid>
       <description></description>
     </item>
     

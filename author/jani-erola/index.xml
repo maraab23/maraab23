@@ -2,22 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jani Erola | Marcel Raab</title>
-    <link>marcelraab.de/author/jani-erola/</link>
-      <atom:link href="marcelraab.de/author/jani-erola/index.xml" rel="self" type="application/rss+xml" />
+    <link>maraab23.github.io/website/author/jani-erola/</link>
+      <atom:link href="maraab23.github.io/website/author/jani-erola/index.xml" rel="self" type="application/rss+xml" />
     <description>Jani Erola</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/marcelraab.de/images/icon_hud161faa3126aab72ef396b267d8f191d_2937_512x512_fill_lanczos_center_2.png</url>
+      <url>/maraab23.github.io/website/images/icon_hud161faa3126aab72ef396b267d8f191d_2937_512x512_fill_lanczos_center_2.png</url>
       <title>Jani Erola</title>
-      <link>marcelraab.de/author/jani-erola/</link>
+      <link>maraab23.github.io/website/author/jani-erola/</link>
     </image>
     
     <item>
       <title>Destination as a Process: Sibling Similarity in Early Socioeconomic Trajectories</title>
-      <link>marcelraab.de/publication/karhula2019/</link>
+      <link>maraab23.github.io/website/publication/karhula2019/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-<<<<<<< HEAD
-      <guid>marcelraab.de/publication/karhula2019/</guid>
+      <guid>maraab23.github.io/website/publication/karhula2019/</guid>
       <description>&lt;html&gt;
   &lt;style&gt;
     section {
@@ -54,18 +53,13 @@
     &lt;/div&gt;
   &lt;/section&gt;
 </description>
-=======
-      <guid>https://marcelraab.de/publication/karhula2019/</guid>
-      <description></description>
->>>>>>> parent of 6f2a3b6 (Badge & Teaching Update)
     </item>
     
     <item>
       <title>Sibling Similarity in Family Formation</title>
-<<<<<<< HEAD
-      <link>marcelraab.de/publication/raab2014/</link>
+      <link>maraab23.github.io/website/publication/raab2014/</link>
       <pubDate>Tue, 14 Oct 2014 00:00:00 +0000</pubDate>
-      <guid>marcelraab.de/publication/raab2014/</guid>
+      <guid>maraab23.github.io/website/publication/raab2014/</guid>
       <description>&lt;html&gt;
   &lt;style&gt;
     section {
@@ -102,12 +96,6 @@
     &lt;/div&gt;
   &lt;/section&gt;
 </description>
-=======
-      <link>https://marcelraab.de/publication/raab2014/2014-01-01_raab2014/</link>
-      <pubDate>Fri, 31 Oct 2014 00:00:00 +0000</pubDate>
-      <guid>https://marcelraab.de/publication/raab2014/2014-01-01_raab2014/</guid>
-      <description></description>
->>>>>>> parent of 6f2a3b6 (Badge & Teaching Update)
     </item>
     
   </channel>

@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | Marcel Raab</title>
-    <link>marcelraab.de/tags/</link>
-      <atom:link href="marcelraab.de/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>maraab23.github.io/website/tags/</link>
+      <atom:link href="maraab23.github.io/website/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/marcelraab.de/images/icon_hud161faa3126aab72ef396b267d8f191d_2937_512x512_fill_lanczos_center_2.png</url>
+      <url>/maraab23.github.io/website/images/icon_hud161faa3126aab72ef396b267d8f191d_2937_512x512_fill_lanczos_center_2.png</url>
       <title>Tags</title>
-      <link>marcelraab.de/tags/</link>
+      <link>maraab23.github.io/website/tags/</link>
     </image>
     
   </channel>

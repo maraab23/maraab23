@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Marcel Raab</title>
-    <link>marcelraab.de/</link>
-      <atom:link href="marcelraab.de/index.xml" rel="self" type="application/rss+xml" />
+    <link>maraab23.github.io/website/</link>
+      <atom:link href="maraab23.github.io/website/index.xml" rel="self" type="application/rss+xml" />
     <description>Marcel Raab</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>/marcelraab.de/images/icon_hud161faa3126aab72ef396b267d8f191d_2937_512x512_fill_lanczos_center_2.png</url>
+      <url>/maraab23.github.io/website/images/icon_hud161faa3126aab72ef396b267d8f191d_2937_512x512_fill_lanczos_center_2.png</url>
       <title>Marcel Raab</title>
-      <link>marcelraab.de/</link>
+      <link>maraab23.github.io/website/</link>
     </image>
     
     <item>
       <title>Python basics</title>
-      <link>marcelraab.de/courses/example/python/</link>
+      <link>maraab23.github.io/website/courses/example/python/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>marcelraab.de/courses/example/python/</guid>
+      <guid>maraab23.github.io/website/courses/example/python/</guid>
       <description>&lt;p&gt;Build a foundation in Python.&lt;/p&gt;
 &lt;p&gt;
   &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1-2 hours per week, for 8 weeks&lt;/p&gt;
@@ -51,9 +51,9 @@
     
     <item>
       <title>Visualization</title>
-      <link>marcelraab.de/courses/example/visualization/</link>
+      <link>maraab23.github.io/website/courses/example/visualization/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>marcelraab.de/courses/example/visualization/</guid>
+      <guid>maraab23.github.io/website/courses/example/visualization/</guid>
       <description>&lt;p&gt;Learn how to visualize data with Plotly.&lt;/p&gt;
 &lt;p&gt;
   &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1-2 hours per week, for 8 weeks&lt;/p&gt;
@@ -81,9 +81,9 @@ fig.show()
     
     <item>
       <title>Statistics</title>
-      <link>marcelraab.de/courses/example/stats/</link>
+      <link>maraab23.github.io/website/courses/example/stats/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>marcelraab.de/courses/example/stats/</guid>
+      <guid>maraab23.github.io/website/courses/example/stats/</guid>
       <description>&lt;p&gt;Introduction to statistics for data science.&lt;/p&gt;
 &lt;p&gt;
   &lt;i class=&#34;fas fa-clock  pr-1 fa-fw&#34;&gt;&lt;/i&gt; 1-2 hours per week, for 8 weeks&lt;/p&gt;
@@ -109,9 +109,9 @@ The variance of the distribution is $\sigma^{2}$.
     
     <item>
       <title>Example Talk</title>
-      <link>marcelraab.de/talk/example-talk/</link>
+      <link>maraab23.github.io/website/talk/example-talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>marcelraab.de/talk/example-talk/</guid>
+      <guid>maraab23.github.io/website/talk/example-talk/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -129,9 +129,9 @@ The variance of the distribution is $\sigma^{2}$.
     
     <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
-      <link>marcelraab.de/post/getting-started/</link>
+      <link>maraab23.github.io/website/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>marcelraab.de/post/getting-started/</guid>
+      <guid>maraab23.github.io/website/post/getting-started/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
@@ -223,11 +223,11 @@ The variance of the distribution is $\sigma^{2}$.
     
     <item>
       <title>Hello R Markdown</title>
-      <link>marcelraab.de/post/2020-12-01-r-rmarkdown/</link>
+      <link>maraab23.github.io/website/post/2020-12-01-r-rmarkdown/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
-      <guid>marcelraab.de/post/2020-12-01-r-rmarkdown/</guid>
+      <guid>maraab23.github.io/website/post/2020-12-01-r-rmarkdown/</guid>
       <description>
-&lt;script src=&#34;marcelraab.de/post/2020-12-01-r-rmarkdown/index.en_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;maraab23.github.io/website/post/2020-12-01-r-rmarkdown/index.en_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;div id=&#34;r-markdown&#34; class=&#34;section level1&#34;&gt;
@@ -263,7 +263,7 @@ pie(
   init.angle = -50, border = NA
 )&lt;/code&gt;&lt;/pre&gt;
 &lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;marcelraab.de/post/2020-12-01-r-rmarkdown/index.en_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
+&lt;img src=&#34;maraab23.github.io/website/post/2020-12-01-r-rmarkdown/index.en_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 Figure 1: A fancy pie chart.
 &lt;/p&gt;
@@ -274,10 +274,9 @@ Figure 1: A fancy pie chart.
     
     <item>
       <title>The Heterogeneity of Partnership Trajectories to Childlessness in Germany</title>
-      <link>marcelraab.de/publication/raab2019/</link>
+      <link>maraab23.github.io/website/publication/raab2019/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-<<<<<<< HEAD
-      <guid>marcelraab.de/publication/raab2019/</guid>
+      <guid>maraab23.github.io/website/publication/raab2019/</guid>
       <description>&lt;html&gt;
   &lt;style&gt;
     section {
@@ -314,17 +313,13 @@ Figure 1: A fancy pie chart.
     &lt;/div&gt;
   &lt;/section&gt;
 </description>
-=======
-      <guid>https://marcelraab.de/publication/raab2019/</guid>
-      <description></description>
->>>>>>> parent of 6f2a3b6 (Badge & Teaching Update)
     </item>
     
     <item>
       <title>Writing technical content in Academic</title>
-      <link>marcelraab.de/post/writing-technical-content/</link>
+      <link>maraab23.github.io/website/post/writing-technical-content/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>marcelraab.de/post/writing-technical-content/</guid>
+      <guid>maraab23.github.io/website/post/writing-technical-content/</guid>
       <description>&lt;p&gt;Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Academic.&lt;/p&gt;
@@ -348,11 +343,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-<<<<<<< HEAD
-&lt;div id=&#34;chart-534867129&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
-=======
-&lt;div id=&#34;chart-579321846&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
->>>>>>> parent of 6f2a3b6 (Badge & Teaching Update)
+&lt;div id=&#34;chart-127934856&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -362,11 +353,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-<<<<<<< HEAD
-        Plotly.plot(&#39;chart-534867129&#39;, chart.data, chart.layout, {responsive: true});
-=======
-        Plotly.plot(&#39;chart-579321846&#39;, chart.data, chart.layout, {responsive: true});
->>>>>>> parent of 6f2a3b6 (Badge & Teaching Update)
+        Plotly.plot(&#39;chart-127934856&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -594,10 +581,9 @@ You found me!
     
     <item>
       <title>Destination as a Process: Sibling Similarity in Early Socioeconomic Trajectories</title>
-      <link>marcelraab.de/publication/karhula2019/</link>
+      <link>maraab23.github.io/website/publication/karhula2019/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-<<<<<<< HEAD
-      <guid>marcelraab.de/publication/karhula2019/</guid>
+      <guid>maraab23.github.io/website/publication/karhula2019/</guid>
       <description>&lt;html&gt;
   &lt;style&gt;
     section {
@@ -634,17 +620,13 @@ You found me!
     &lt;/div&gt;
   &lt;/section&gt;
 </description>
-=======
-      <guid>https://marcelraab.de/publication/karhula2019/</guid>
-      <description></description>
->>>>>>> parent of 6f2a3b6 (Badge & Teaching Update)
     </item>
     
     <item>
       <title>Display Jupyter Notebooks with Academic</title>
-      <link>marcelraab.de/post/jupyter/</link>
+      <link>maraab23.github.io/website/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>marcelraab.de/post/jupyter/</guid>
+      <guid>maraab23.github.io/website/post/jupyter/</guid>
       <description>&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
 Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)
 &lt;/code&gt;&lt;/pre&gt;
@@ -686,9 +668,9 @@ date: 2019-09-01
     
     <item>
       <title>Slides</title>
-      <link>marcelraab.de/slides/example/</link>
+      <link>maraab23.github.io/website/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>marcelraab.de/slides/example/</guid>
+      <guid>maraab23.github.io/website/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -815,9 +797,9 @@ Three
     
     <item>
       <title>Privacy Policy</title>
-      <link>marcelraab.de/privacy/</link>
+      <link>maraab23.github.io/website/privacy/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>marcelraab.de/privacy/</guid>
+      <guid>maraab23.github.io/website/privacy/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Datenschutz&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Die Nutzung unserer Webseite ist in der Regel ohne Angabe personenbezogener Daten möglich. Soweit auf unseren Seiten personenbezogene Daten (beispielsweise Name, Anschrift oder eMail-Adressen) erhoben werden, erfolgt dies, soweit möglich, stets auf freiwilliger Basis. Diese Daten werden ohne Ihre ausdrückliche Zustimmung nicht an Dritte weitergegeben.&lt;/p&gt;
 &lt;p&gt;Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich.&lt;/p&gt;
@@ -837,10 +819,9 @@ Heinrichsdamm 4
     
     <item>
       <title>Pathways to death: The co-occurrence of physical and mental health in the last years of life</title>
-      <link>marcelraab.de/publication/raab2018/</link>
+      <link>maraab23.github.io/website/publication/raab2018/</link>
       <pubDate>Wed, 16 May 2018 00:00:00 +0000</pubDate>
-<<<<<<< HEAD
-      <guid>marcelraab.de/publication/raab2018/</guid>
+      <guid>maraab23.github.io/website/publication/raab2018/</guid>
       <description>&lt;html&gt;
   &lt;style&gt;
     section {
@@ -877,18 +858,13 @@ Heinrichsdamm 4
     &lt;/div&gt;
   &lt;/section&gt;
 </description>
-=======
-      <guid>https://marcelraab.de/publication/raab2018/</guid>
-      <description></description>
->>>>>>> parent of 6f2a3b6 (Badge & Teaching Update)
     </item>
     
     <item>
       <title>Childhood Family Structure and Early Family Formation in East and West Germany</title>
-      <link>marcelraab.de/publication/raab2017/</link>
+      <link>maraab23.github.io/website/publication/raab2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-<<<<<<< HEAD
-      <guid>marcelraab.de/publication/raab2017/</guid>
+      <guid>maraab23.github.io/website/publication/raab2017/</guid>
       <description>&lt;html&gt;
   &lt;style&gt;
     section {
@@ -925,25 +901,21 @@ Heinrichsdamm 4
     &lt;/div&gt;
   &lt;/section&gt;
 </description>
-=======
-      <guid>https://marcelraab.de/publication/raab2017/2017-01-01_raab2017/</guid>
-      <description></description>
->>>>>>> parent of 6f2a3b6 (Badge & Teaching Update)
     </item>
     
     <item>
       <title>External Project</title>
-      <link>marcelraab.de/project/external-project/</link>
+      <link>maraab23.github.io/website/project/external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>marcelraab.de/project/external-project/</guid>
+      <guid>maraab23.github.io/website/project/external-project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Internal Project</title>
-      <link>marcelraab.de/project/internal-project/</link>
+      <link>maraab23.github.io/website/project/internal-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>marcelraab.de/project/internal-project/</guid>
+      <guid>maraab23.github.io/website/project/internal-project/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
 &lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
@@ -954,10 +926,9 @@ Heinrichsdamm 4
     
     <item>
       <title>Sibling Similarity in Family Formation</title>
-<<<<<<< HEAD
-      <link>marcelraab.de/publication/raab2014/</link>
+      <link>maraab23.github.io/website/publication/raab2014/</link>
       <pubDate>Tue, 14 Oct 2014 00:00:00 +0000</pubDate>
-      <guid>marcelraab.de/publication/raab2014/</guid>
+      <guid>maraab23.github.io/website/publication/raab2014/</guid>
       <description>&lt;html&gt;
   &lt;style&gt;
     section {
@@ -994,20 +965,13 @@ Heinrichsdamm 4
     &lt;/div&gt;
   &lt;/section&gt;
 </description>
-=======
-      <link>https://marcelraab.de/publication/raab2014/2014-01-01_raab2014/</link>
-      <pubDate>Fri, 31 Oct 2014 00:00:00 +0000</pubDate>
-      <guid>https://marcelraab.de/publication/raab2014/2014-01-01_raab2014/</guid>
-      <description></description>
->>>>>>> parent of 6f2a3b6 (Badge & Teaching Update)
     </item>
     
     <item>
       <title>Beyond Transmission: Intergenerational Patterns of Family Formation Among Middle-Class American Families</title>
-      <link>marcelraab.de/publication/fasang2014/</link>
+      <link>maraab23.github.io/website/publication/fasang2014/</link>
       <pubDate>Fri, 22 Aug 2014 00:00:00 +0000</pubDate>
-<<<<<<< HEAD
-      <guid>marcelraab.de/publication/fasang2014/</guid>
+      <guid>maraab23.github.io/website/publication/fasang2014/</guid>
       <description>&lt;html&gt;
   &lt;style&gt;
     section {
@@ -1044,18 +1008,13 @@ Heinrichsdamm 4
     &lt;/div&gt;
   &lt;/section&gt;
 </description>
-=======
-      <guid>https://marcelraab.de/publication/fasang2014/</guid>
-      <description></description>
->>>>>>> parent of 6f2a3b6 (Badge & Teaching Update)
     </item>
     
     <item>
       <title>The Transition to Parent Care: Costs, Commitments, and Caregiver Selection Among Children</title>
-      <link>marcelraab.de/publication/leopold2014/</link>
+      <link>maraab23.github.io/website/publication/leopold2014/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-<<<<<<< HEAD
-      <guid>marcelraab.de/publication/leopold2014/</guid>
+      <guid>maraab23.github.io/website/publication/leopold2014/</guid>
       <description>&lt;html&gt;
   &lt;style&gt;
     section {
@@ -1092,18 +1051,13 @@ Heinrichsdamm 4
     &lt;/div&gt;
   &lt;/section&gt;
 </description>
-=======
-      <guid>https://marcelraab.de/publication/leopold2014/2014-01-01_leopold2014/</guid>
-      <description></description>
->>>>>>> parent of 6f2a3b6 (Badge & Teaching Update)
     </item>
     
     <item>
       <title>The temporal structure of intergenerational exchange: A within-family analysis of parent-child reciprocity</title>
-      <link>marcelraab.de/publication/leopold2013/</link>
+      <link>maraab23.github.io/website/publication/leopold2013/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-<<<<<<< HEAD
-      <guid>marcelraab.de/publication/leopold2013/</guid>
+      <guid>maraab23.github.io/website/publication/leopold2013/</guid>
       <description>&lt;html&gt;
   &lt;style&gt;
     section {
@@ -1140,34 +1094,29 @@ Heinrichsdamm 4
     &lt;/div&gt;
   &lt;/section&gt;
 </description>
-=======
-      <guid>https://marcelraab.de/publication/leopold2013/2013-01-01_leopold2013/</guid>
-      <description></description>
->>>>>>> parent of 6f2a3b6 (Badge & Teaching Update)
     </item>
     
     <item>
       <title>NEPS Data Manual. Curricular Reform Study in Thuringia (TH). SUF Version 1.0.0</title>
-      <link>marcelraab.de/publication/zielonka2012/</link>
+      <link>maraab23.github.io/website/publication/zielonka2012/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>marcelraab.de/publication/zielonka2012/</guid>
+      <guid>maraab23.github.io/website/publication/zielonka2012/</guid>
       <description></description>
     </item>
     
     <item>
       <title>NEPS Data Manual. Starting Cohort 6: Adult Education and Lifelong Learning</title>
-      <link>marcelraab.de/publication/leopold2011a/</link>
+      <link>maraab23.github.io/website/publication/leopold2011a/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>marcelraab.de/publication/leopold2011a/</guid>
+      <guid>maraab23.github.io/website/publication/leopold2011a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Short-Term Reciprocity in Late Parent-Child Relationships</title>
-      <link>marcelraab.de/publication/leopold2011/</link>
+      <link>maraab23.github.io/website/publication/leopold2011/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-<<<<<<< HEAD
-      <guid>marcelraab.de/publication/leopold2011/</guid>
+      <guid>maraab23.github.io/website/publication/leopold2011/</guid>
       <description>&lt;html&gt;
   &lt;style&gt;
     section {
@@ -1204,26 +1153,21 @@ Heinrichsdamm 4
     &lt;/div&gt;
   &lt;/section&gt;
 </description>
-=======
-      <guid>https://marcelraab.de/publication/leopold2011/2011-01-01_leopold2011/</guid>
-      <description></description>
->>>>>>> parent of 6f2a3b6 (Badge & Teaching Update)
     </item>
     
     <item>
       <title>GlobalIndex - Ein soziologischer Ansatz zur Messung von Globalisierung</title>
-      <link>marcelraab.de/publication/ruland2009/</link>
+      <link>maraab23.github.io/website/publication/ruland2009/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>marcelraab.de/publication/ruland2009/</guid>
+      <guid>maraab23.github.io/website/publication/ruland2009/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Globalisierungsprozesse in modernen Gesellschaften</title>
-      <link>marcelraab.de/publication/blossfeld2009/</link>
+      <link>maraab23.github.io/website/publication/blossfeld2009/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-<<<<<<< HEAD
-      <guid>marcelraab.de/publication/blossfeld2009/</guid>
+      <guid>maraab23.github.io/website/publication/blossfeld2009/</guid>
       <description>&lt;html&gt;
   &lt;style&gt;
     section {
@@ -1260,18 +1204,13 @@ Heinrichsdamm 4
     &lt;/div&gt;
   &lt;/section&gt;
 </description>
-=======
-      <guid>https://marcelraab.de/publication/blossfeld2009/2009-01-01_blossfeld2009/</guid>
-      <description></description>
->>>>>>> parent of 6f2a3b6 (Badge & Teaching Update)
     </item>
     
     <item>
       <title>GlobalIndex: A Sociological Approach to Globalization Measurement</title>
-      <link>marcelraab.de/publication/raab2008/</link>
+      <link>maraab23.github.io/website/publication/raab2008/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-<<<<<<< HEAD
-      <guid>marcelraab.de/publication/raab2008/</guid>
+      <guid>maraab23.github.io/website/publication/raab2008/</guid>
       <description>&lt;html&gt;
   &lt;style&gt;
     section {
@@ -1308,10 +1247,6 @@ Heinrichsdamm 4
     &lt;/div&gt;
   &lt;/section&gt;
 </description>
-=======
-      <guid>https://marcelraab.de/publication/raab2008/</guid>
-      <description></description>
->>>>>>> parent of 6f2a3b6 (Badge & Teaching Update)
     </item>
     
   </channel>

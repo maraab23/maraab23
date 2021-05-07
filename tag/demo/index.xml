@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Demo | Marcel Raab</title>
-    <link>marcelraab.de/tag/demo/</link>
-      <atom:link href="marcelraab.de/tag/demo/index.xml" rel="self" type="application/rss+xml" />
+    <link>maraab23.github.io/website/tag/demo/</link>
+      <atom:link href="maraab23.github.io/website/tag/demo/index.xml" rel="self" type="application/rss+xml" />
     <description>Demo</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/marcelraab.de/images/icon_hud161faa3126aab72ef396b267d8f191d_2937_512x512_fill_lanczos_center_2.png</url>
+      <url>/maraab23.github.io/website/images/icon_hud161faa3126aab72ef396b267d8f191d_2937_512x512_fill_lanczos_center_2.png</url>
       <title>Demo</title>
-      <link>marcelraab.de/tag/demo/</link>
+      <link>maraab23.github.io/website/tag/demo/</link>
     </image>
     
     <item>
       <title>External Project</title>
-      <link>marcelraab.de/project/external-project/</link>
+      <link>maraab23.github.io/website/project/external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>marcelraab.de/project/external-project/</guid>
+      <guid>maraab23.github.io/website/project/external-project/</guid>
       <description></description>
     </item>
     
