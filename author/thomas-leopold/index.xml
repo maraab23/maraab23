@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Thomas Leopold | Marcel Raab</title>
-    <link>marcelraab.de/author/thomas-leopold/</link>
-      <atom:link href="marcelraab.de/author/thomas-leopold/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://marcelraab.de/author/thomas-leopold/</link>
+      <atom:link href="https://marcelraab.de/author/thomas-leopold/index.xml" rel="self" type="application/rss+xml" />
     <description>Thomas Leopold</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/marcelraab.de/images/icon_hud161faa3126aab72ef396b267d8f191d_2937_512x512_fill_lanczos_center_2.png</url>
+      <url>https://marcelraab.de/images/icon_hud161faa3126aab72ef396b267d8f191d_2937_512x512_fill_lanczos_center_2.png</url>
       <title>Thomas Leopold</title>
-      <link>marcelraab.de/author/thomas-leopold/</link>
+      <link>https://marcelraab.de/author/thomas-leopold/</link>
     </image>
     
     <item>
       <title>The Transition to Parent Care: Costs, Commitments, and Caregiver Selection Among Children</title>
-      <link>marcelraab.de/publication/leopold2014/</link>
+      <link>https://marcelraab.de/publication/leopold2014/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>marcelraab.de/publication/leopold2014/</guid>
+      <guid>https://marcelraab.de/publication/leopold2014/</guid>
       <description>&lt;html&gt;
   &lt;style&gt;
     section {
@@ -57,9 +57,9 @@
     
     <item>
       <title>The temporal structure of intergenerational exchange: A within-family analysis of parent-child reciprocity</title>
-      <link>marcelraab.de/publication/leopold2013/</link>
+      <link>https://marcelraab.de/publication/leopold2013/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>marcelraab.de/publication/leopold2013/</guid>
+      <guid>https://marcelraab.de/publication/leopold2013/</guid>
       <description>&lt;html&gt;
   &lt;style&gt;
     section {
@@ -100,17 +100,17 @@
     
     <item>
       <title>NEPS Data Manual. Starting Cohort 6: Adult Education and Lifelong Learning</title>
-      <link>marcelraab.de/publication/leopold2011a/</link>
+      <link>https://marcelraab.de/publication/leopold2011a/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>marcelraab.de/publication/leopold2011a/</guid>
+      <guid>https://marcelraab.de/publication/leopold2011a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Short-Term Reciprocity in Late Parent-Child Relationships</title>
-      <link>marcelraab.de/publication/leopold2011/</link>
+      <link>https://marcelraab.de/publication/leopold2011/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>marcelraab.de/publication/leopold2011/</guid>
+      <guid>https://marcelraab.de/publication/leopold2011/</guid>
       <description>&lt;html&gt;
   &lt;style&gt;
     section {

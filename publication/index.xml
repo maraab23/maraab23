@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Marcel Raab</title>
-    <link>marcelraab.de/publication/</link>
-      <atom:link href="marcelraab.de/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://marcelraab.de/publication/</link>
+      <atom:link href="https://marcelraab.de/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/marcelraab.de/images/icon_hud161faa3126aab72ef396b267d8f191d_2937_512x512_fill_lanczos_center_2.png</url>
+      <url>https://marcelraab.de/images/icon_hud161faa3126aab72ef396b267d8f191d_2937_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
-      <link>marcelraab.de/publication/</link>
+      <link>https://marcelraab.de/publication/</link>
     </image>
     
     <item>
       <title>The Heterogeneity of Partnership Trajectories to Childlessness in Germany</title>
-      <link>marcelraab.de/publication/raab2019/</link>
+      <link>https://marcelraab.de/publication/raab2019/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>marcelraab.de/publication/raab2019/</guid>
+      <guid>https://marcelraab.de/publication/raab2019/</guid>
       <description>&lt;html&gt;
   &lt;style&gt;
     section {
@@ -57,9 +57,9 @@
     
     <item>
       <title>Destination as a Process: Sibling Similarity in Early Socioeconomic Trajectories</title>
-      <link>marcelraab.de/publication/karhula2019/</link>
+      <link>https://marcelraab.de/publication/karhula2019/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>marcelraab.de/publication/karhula2019/</guid>
+      <guid>https://marcelraab.de/publication/karhula2019/</guid>
       <description>&lt;html&gt;
   &lt;style&gt;
     section {
@@ -100,9 +100,9 @@
     
     <item>
       <title>Pathways to death: The co-occurrence of physical and mental health in the last years of life</title>
-      <link>marcelraab.de/publication/raab2018/</link>
+      <link>https://marcelraab.de/publication/raab2018/</link>
       <pubDate>Wed, 16 May 2018 00:00:00 +0000</pubDate>
-      <guid>marcelraab.de/publication/raab2018/</guid>
+      <guid>https://marcelraab.de/publication/raab2018/</guid>
       <description>&lt;html&gt;
   &lt;style&gt;
     section {
@@ -143,9 +143,9 @@
     
     <item>
       <title>Childhood Family Structure and Early Family Formation in East and West Germany</title>
-      <link>marcelraab.de/publication/raab2017/</link>
+      <link>https://marcelraab.de/publication/raab2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>marcelraab.de/publication/raab2017/</guid>
+      <guid>https://marcelraab.de/publication/raab2017/</guid>
       <description>&lt;html&gt;
   &lt;style&gt;
     section {
@@ -185,10 +185,10 @@
     </item>
     
     <item>
-      <title>Sibling Similarity in Family Formation</title>
-      <link>marcelraab.de/publication/raab2014/</link>
-      <pubDate>Tue, 14 Oct 2014 00:00:00 +0000</pubDate>
-      <guid>marcelraab.de/publication/raab2014/</guid>
+      <title>Beyond Transmission: Intergenerational Patterns of Family Formation Among Middle-Class American Families</title>
+      <link>https://marcelraab.de/publication/fasang2014/</link>
+      <pubDate>Fri, 22 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>https://marcelraab.de/publication/fasang2014/</guid>
       <description>&lt;html&gt;
   &lt;style&gt;
     section {
@@ -208,7 +208,7 @@
       &lt;script type=&#39;text/javascript&#39; src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/script&gt;
         &lt;span style=&#34;float:left&#34;; 
           class=&#34;__dimensions_badge_embed__&#34; 
-          data-doi=&#34;10.1007/s13524-014-0341-6&#34; 
+          data-doi=&#34;10.1007/s13524-014-0322-9&#34; 
           data-hide-zero-citations=&#34;true&#34; 
           data-legend=&#34;always&#34;&gt;
         &lt;/span&gt;
@@ -217,7 +217,7 @@
           data-link-target=&#34;_blank&#34; 
           data-badge-details=&#34;right&#34; 
           data-badge-type=&#34;medium-donut&#34;
-          data-doi=&#34;10.1007/s13524-014-0341-6&#34;   
+          data-doi=&#34;10.1007/s13524-014-0322-9&#34;   
           data-condensed=&#34;true&#34; 
           data-hide-no-mentions=&#34;true&#34; 
           class=&#34;altmetric-embed&#34;&gt;
@@ -229,9 +229,9 @@
     
     <item>
       <title>Beyond Transmission: Intergenerational Patterns of Family Formation Among Middle-Class American Families</title>
-      <link>marcelraab.de/publication/fasang2014/</link>
+      <link>https://marcelraab.de/publication/raab2014/</link>
       <pubDate>Fri, 22 Aug 2014 00:00:00 +0000</pubDate>
-      <guid>marcelraab.de/publication/fasang2014/</guid>
+      <guid>https://marcelraab.de/publication/raab2014/</guid>
       <description>&lt;html&gt;
   &lt;style&gt;
     section {
@@ -272,9 +272,9 @@
     
     <item>
       <title>The Transition to Parent Care: Costs, Commitments, and Caregiver Selection Among Children</title>
-      <link>marcelraab.de/publication/leopold2014/</link>
+      <link>https://marcelraab.de/publication/leopold2014/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>marcelraab.de/publication/leopold2014/</guid>
+      <guid>https://marcelraab.de/publication/leopold2014/</guid>
       <description>&lt;html&gt;
   &lt;style&gt;
     section {
@@ -315,9 +315,9 @@
     
     <item>
       <title>The temporal structure of intergenerational exchange: A within-family analysis of parent-child reciprocity</title>
-      <link>marcelraab.de/publication/leopold2013/</link>
+      <link>https://marcelraab.de/publication/leopold2013/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>marcelraab.de/publication/leopold2013/</guid>
+      <guid>https://marcelraab.de/publication/leopold2013/</guid>
       <description>&lt;html&gt;
   &lt;style&gt;
     section {
@@ -358,25 +358,25 @@
     
     <item>
       <title>NEPS Data Manual. Curricular Reform Study in Thuringia (TH). SUF Version 1.0.0</title>
-      <link>marcelraab.de/publication/zielonka2012/</link>
+      <link>https://marcelraab.de/publication/zielonka2012/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>marcelraab.de/publication/zielonka2012/</guid>
+      <guid>https://marcelraab.de/publication/zielonka2012/</guid>
       <description></description>
     </item>
     
     <item>
       <title>NEPS Data Manual. Starting Cohort 6: Adult Education and Lifelong Learning</title>
-      <link>marcelraab.de/publication/leopold2011a/</link>
+      <link>https://marcelraab.de/publication/leopold2011a/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>marcelraab.de/publication/leopold2011a/</guid>
+      <guid>https://marcelraab.de/publication/leopold2011a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Short-Term Reciprocity in Late Parent-Child Relationships</title>
-      <link>marcelraab.de/publication/leopold2011/</link>
+      <link>https://marcelraab.de/publication/leopold2011/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>marcelraab.de/publication/leopold2011/</guid>
+      <guid>https://marcelraab.de/publication/leopold2011/</guid>
       <description>&lt;html&gt;
   &lt;style&gt;
     section {
@@ -417,17 +417,17 @@
     
     <item>
       <title>GlobalIndex - Ein soziologischer Ansatz zur Messung von Globalisierung</title>
-      <link>marcelraab.de/publication/ruland2009/</link>
+      <link>https://marcelraab.de/publication/ruland2009/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>marcelraab.de/publication/ruland2009/</guid>
+      <guid>https://marcelraab.de/publication/ruland2009/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Globalisierungsprozesse in modernen Gesellschaften</title>
-      <link>marcelraab.de/publication/blossfeld2009/</link>
+      <link>https://marcelraab.de/publication/blossfeld2009/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>marcelraab.de/publication/blossfeld2009/</guid>
+      <guid>https://marcelraab.de/publication/blossfeld2009/</guid>
       <description>&lt;html&gt;
   &lt;style&gt;
     section {
@@ -468,9 +468,9 @@
     
     <item>
       <title>GlobalIndex: A Sociological Approach to Globalization Measurement</title>
-      <link>marcelraab.de/publication/raab2008/</link>
+      <link>https://marcelraab.de/publication/raab2008/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>marcelraab.de/publication/raab2008/</guid>
+      <guid>https://marcelraab.de/publication/raab2008/</guid>
       <description>&lt;html&gt;
   &lt;style&gt;
     section {

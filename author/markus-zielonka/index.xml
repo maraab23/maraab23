@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Markus Zielonka | Marcel Raab</title>
-    <link>marcelraab.de/author/markus-zielonka/</link>
-      <atom:link href="marcelraab.de/author/markus-zielonka/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://marcelraab.de/author/markus-zielonka/</link>
+      <atom:link href="https://marcelraab.de/author/markus-zielonka/index.xml" rel="self" type="application/rss+xml" />
     <description>Markus Zielonka</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/marcelraab.de/images/icon_hud161faa3126aab72ef396b267d8f191d_2937_512x512_fill_lanczos_center_2.png</url>
+      <url>https://marcelraab.de/images/icon_hud161faa3126aab72ef396b267d8f191d_2937_512x512_fill_lanczos_center_2.png</url>
       <title>Markus Zielonka</title>
-      <link>marcelraab.de/author/markus-zielonka/</link>
+      <link>https://marcelraab.de/author/markus-zielonka/</link>
     </image>
     
     <item>
       <title>NEPS Data Manual. Curricular Reform Study in Thuringia (TH). SUF Version 1.0.0</title>
-      <link>marcelraab.de/publication/zielonka2012/</link>
+      <link>https://marcelraab.de/publication/zielonka2012/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>marcelraab.de/publication/zielonka2012/</guid>
+      <guid>https://marcelraab.de/publication/zielonka2012/</guid>
       <description></description>
     </item>
     
