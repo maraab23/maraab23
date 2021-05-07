@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Moritz Hess | Marcel Raab</title>
-    <link>maraab23.github.io/website/author/moritz-hess/</link>
-      <atom:link href="maraab23.github.io/website/author/moritz-hess/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://maraab23.github.io/author/moritz-hess/</link>
+      <atom:link href="https://maraab23.github.io/author/moritz-hess/index.xml" rel="self" type="application/rss+xml" />
     <description>Moritz Hess</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 16 May 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/maraab23.github.io/website/images/icon_hud161faa3126aab72ef396b267d8f191d_2937_512x512_fill_lanczos_center_2.png</url>
+      <url>https://maraab23.github.io/images/icon_hud161faa3126aab72ef396b267d8f191d_2937_512x512_fill_lanczos_center_2.png</url>
       <title>Moritz Hess</title>
-      <link>maraab23.github.io/website/author/moritz-hess/</link>
+      <link>https://maraab23.github.io/author/moritz-hess/</link>
     </image>
     
     <item>
       <title>Pathways to death: The co-occurrence of physical and mental health in the last years of life</title>
-      <link>maraab23.github.io/website/publication/raab2018/</link>
+      <link>https://maraab23.github.io/publication/raab2018/</link>
       <pubDate>Wed, 16 May 2018 00:00:00 +0000</pubDate>
-      <guid>maraab23.github.io/website/publication/raab2018/</guid>
+      <guid>https://maraab23.github.io/publication/raab2018/</guid>
       <description>&lt;html&gt;
   &lt;style&gt;
     section {

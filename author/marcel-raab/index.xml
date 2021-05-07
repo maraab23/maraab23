@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Marcel Raab</title>
-    <link>maraab23.github.io/website/author/marcel-raab/</link>
-      <atom:link href="maraab23.github.io/website/author/marcel-raab/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://maraab23.github.io/author/marcel-raab/</link>
+      <atom:link href="https://maraab23.github.io/author/marcel-raab/index.xml" rel="self" type="application/rss+xml" />
     <description>Marcel Raab</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/maraab23.github.io/website/author/marcel-raab/avatar_hu111f1d26eef39dd823f72757b43fff9e_287895_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://maraab23.github.io/author/marcel-raab/avatar_hu111f1d26eef39dd823f72757b43fff9e_287895_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Marcel Raab</title>
-      <link>maraab23.github.io/website/author/marcel-raab/</link>
+      <link>https://maraab23.github.io/author/marcel-raab/</link>
     </image>
     
     <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
-      <link>maraab23.github.io/website/post/getting-started/</link>
+      <link>https://maraab23.github.io/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>maraab23.github.io/website/post/getting-started/</guid>
+      <guid>https://maraab23.github.io/post/getting-started/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
@@ -108,9 +108,9 @@
     
     <item>
       <title>The Heterogeneity of Partnership Trajectories to Childlessness in Germany</title>
-      <link>maraab23.github.io/website/publication/raab2019/</link>
+      <link>https://maraab23.github.io/publication/raab2019/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>maraab23.github.io/website/publication/raab2019/</guid>
+      <guid>https://maraab23.github.io/publication/raab2019/</guid>
       <description>&lt;html&gt;
   &lt;style&gt;
     section {
@@ -151,9 +151,9 @@
     
     <item>
       <title>Destination as a Process: Sibling Similarity in Early Socioeconomic Trajectories</title>
-      <link>maraab23.github.io/website/publication/karhula2019/</link>
+      <link>https://maraab23.github.io/publication/karhula2019/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>maraab23.github.io/website/publication/karhula2019/</guid>
+      <guid>https://maraab23.github.io/publication/karhula2019/</guid>
       <description>&lt;html&gt;
   &lt;style&gt;
     section {
@@ -194,9 +194,9 @@
     
     <item>
       <title>Display Jupyter Notebooks with Academic</title>
-      <link>maraab23.github.io/website/post/jupyter/</link>
+      <link>https://maraab23.github.io/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>maraab23.github.io/website/post/jupyter/</guid>
+      <guid>https://maraab23.github.io/post/jupyter/</guid>
       <description>&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
 Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)
 &lt;/code&gt;&lt;/pre&gt;
@@ -238,9 +238,9 @@ date: 2019-09-01
     
     <item>
       <title>Pathways to death: The co-occurrence of physical and mental health in the last years of life</title>
-      <link>maraab23.github.io/website/publication/raab2018/</link>
+      <link>https://maraab23.github.io/publication/raab2018/</link>
       <pubDate>Wed, 16 May 2018 00:00:00 +0000</pubDate>
-      <guid>maraab23.github.io/website/publication/raab2018/</guid>
+      <guid>https://maraab23.github.io/publication/raab2018/</guid>
       <description>&lt;html&gt;
   &lt;style&gt;
     section {
@@ -281,9 +281,9 @@ date: 2019-09-01
     
     <item>
       <title>Childhood Family Structure and Early Family Formation in East and West Germany</title>
-      <link>maraab23.github.io/website/publication/raab2017/</link>
+      <link>https://maraab23.github.io/publication/raab2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>maraab23.github.io/website/publication/raab2017/</guid>
+      <guid>https://maraab23.github.io/publication/raab2017/</guid>
       <description>&lt;html&gt;
   &lt;style&gt;
     section {
@@ -324,9 +324,9 @@ date: 2019-09-01
     
     <item>
       <title>Sibling Similarity in Family Formation</title>
-      <link>maraab23.github.io/website/publication/raab2014/</link>
+      <link>https://maraab23.github.io/publication/raab2014/</link>
       <pubDate>Tue, 14 Oct 2014 00:00:00 +0000</pubDate>
-      <guid>maraab23.github.io/website/publication/raab2014/</guid>
+      <guid>https://maraab23.github.io/publication/raab2014/</guid>
       <description>&lt;html&gt;
   &lt;style&gt;
     section {
@@ -367,9 +367,9 @@ date: 2019-09-01
     
     <item>
       <title>Beyond Transmission: Intergenerational Patterns of Family Formation Among Middle-Class American Families</title>
-      <link>maraab23.github.io/website/publication/fasang2014/</link>
+      <link>https://maraab23.github.io/publication/fasang2014/</link>
       <pubDate>Fri, 22 Aug 2014 00:00:00 +0000</pubDate>
-      <guid>maraab23.github.io/website/publication/fasang2014/</guid>
+      <guid>https://maraab23.github.io/publication/fasang2014/</guid>
       <description>&lt;html&gt;
   &lt;style&gt;
     section {
@@ -410,9 +410,9 @@ date: 2019-09-01
     
     <item>
       <title>The Transition to Parent Care: Costs, Commitments, and Caregiver Selection Among Children</title>
-      <link>maraab23.github.io/website/publication/leopold2014/</link>
+      <link>https://maraab23.github.io/publication/leopold2014/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>maraab23.github.io/website/publication/leopold2014/</guid>
+      <guid>https://maraab23.github.io/publication/leopold2014/</guid>
       <description>&lt;html&gt;
   &lt;style&gt;
     section {
@@ -453,9 +453,9 @@ date: 2019-09-01
     
     <item>
       <title>The temporal structure of intergenerational exchange: A within-family analysis of parent-child reciprocity</title>
-      <link>maraab23.github.io/website/publication/leopold2013/</link>
+      <link>https://maraab23.github.io/publication/leopold2013/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>maraab23.github.io/website/publication/leopold2013/</guid>
+      <guid>https://maraab23.github.io/publication/leopold2013/</guid>
       <description>&lt;html&gt;
   &lt;style&gt;
     section {
@@ -496,25 +496,25 @@ date: 2019-09-01
     
     <item>
       <title>NEPS Data Manual. Curricular Reform Study in Thuringia (TH). SUF Version 1.0.0</title>
-      <link>maraab23.github.io/website/publication/zielonka2012/</link>
+      <link>https://maraab23.github.io/publication/zielonka2012/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>maraab23.github.io/website/publication/zielonka2012/</guid>
+      <guid>https://maraab23.github.io/publication/zielonka2012/</guid>
       <description></description>
     </item>
     
     <item>
       <title>NEPS Data Manual. Starting Cohort 6: Adult Education and Lifelong Learning</title>
-      <link>maraab23.github.io/website/publication/leopold2011a/</link>
+      <link>https://maraab23.github.io/publication/leopold2011a/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>maraab23.github.io/website/publication/leopold2011a/</guid>
+      <guid>https://maraab23.github.io/publication/leopold2011a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Short-Term Reciprocity in Late Parent-Child Relationships</title>
-      <link>maraab23.github.io/website/publication/leopold2011/</link>
+      <link>https://maraab23.github.io/publication/leopold2011/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>maraab23.github.io/website/publication/leopold2011/</guid>
+      <guid>https://maraab23.github.io/publication/leopold2011/</guid>
       <description>&lt;html&gt;
   &lt;style&gt;
     section {
@@ -555,17 +555,17 @@ date: 2019-09-01
     
     <item>
       <title>GlobalIndex - Ein soziologischer Ansatz zur Messung von Globalisierung</title>
-      <link>maraab23.github.io/website/publication/ruland2009/</link>
+      <link>https://maraab23.github.io/publication/ruland2009/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>maraab23.github.io/website/publication/ruland2009/</guid>
+      <guid>https://maraab23.github.io/publication/ruland2009/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Globalisierungsprozesse in modernen Gesellschaften</title>
-      <link>maraab23.github.io/website/publication/blossfeld2009/</link>
+      <link>https://maraab23.github.io/publication/blossfeld2009/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>maraab23.github.io/website/publication/blossfeld2009/</guid>
+      <guid>https://maraab23.github.io/publication/blossfeld2009/</guid>
       <description>&lt;html&gt;
   &lt;style&gt;
     section {
@@ -606,9 +606,9 @@ date: 2019-09-01
     
     <item>
       <title>GlobalIndex: A Sociological Approach to Globalization Measurement</title>
-      <link>maraab23.github.io/website/publication/raab2008/</link>
+      <link>https://maraab23.github.io/publication/raab2008/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>maraab23.github.io/website/publication/raab2008/</guid>
+      <guid>https://maraab23.github.io/publication/raab2008/</guid>
       <description>&lt;html&gt;
   &lt;style&gt;
     section {

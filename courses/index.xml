@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Courses | Marcel Raab</title>
-    <link>maraab23.github.io/website/courses/</link>
-      <atom:link href="maraab23.github.io/website/courses/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://maraab23.github.io/courses/</link>
+      <atom:link href="https://maraab23.github.io/courses/index.xml" rel="self" type="application/rss+xml" />
     <description>Courses</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 24 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/maraab23.github.io/website/images/icon_hud161faa3126aab72ef396b267d8f191d_2937_512x512_fill_lanczos_center_2.png</url>
+      <url>https://maraab23.github.io/images/icon_hud161faa3126aab72ef396b267d8f191d_2937_512x512_fill_lanczos_center_2.png</url>
       <title>Courses</title>
-      <link>maraab23.github.io/website/courses/</link>
+      <link>https://maraab23.github.io/courses/</link>
     </image>
     
   </channel>

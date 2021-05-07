@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Aleksi Karhula | Marcel Raab</title>
-    <link>maraab23.github.io/website/author/aleksi-karhula/</link>
-      <atom:link href="maraab23.github.io/website/author/aleksi-karhula/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://maraab23.github.io/author/aleksi-karhula/</link>
+      <atom:link href="https://maraab23.github.io/author/aleksi-karhula/index.xml" rel="self" type="application/rss+xml" />
     <description>Aleksi Karhula</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/maraab23.github.io/website/images/icon_hud161faa3126aab72ef396b267d8f191d_2937_512x512_fill_lanczos_center_2.png</url>
+      <url>https://maraab23.github.io/images/icon_hud161faa3126aab72ef396b267d8f191d_2937_512x512_fill_lanczos_center_2.png</url>
       <title>Aleksi Karhula</title>
-      <link>maraab23.github.io/website/author/aleksi-karhula/</link>
+      <link>https://maraab23.github.io/author/aleksi-karhula/</link>
     </image>
     
     <item>
       <title>Destination as a Process: Sibling Similarity in Early Socioeconomic Trajectories</title>
-      <link>maraab23.github.io/website/publication/karhula2019/</link>
+      <link>https://maraab23.github.io/publication/karhula2019/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      <guid>maraab23.github.io/website/publication/karhula2019/</guid>
+      <guid>https://maraab23.github.io/publication/karhula2019/</guid>
       <description>&lt;html&gt;
   &lt;style&gt;
     section {
@@ -57,9 +57,9 @@
     
     <item>
       <title>Sibling Similarity in Family Formation</title>
-      <link>maraab23.github.io/website/publication/raab2014/</link>
+      <link>https://maraab23.github.io/publication/raab2014/</link>
       <pubDate>Tue, 14 Oct 2014 00:00:00 +0000</pubDate>
-      <guid>maraab23.github.io/website/publication/raab2014/</guid>
+      <guid>https://maraab23.github.io/publication/raab2014/</guid>
       <description>&lt;html&gt;
   &lt;style&gt;
     section {
