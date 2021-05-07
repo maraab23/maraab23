@@ -276,6 +276,7 @@ Figure 1: A fancy pie chart.
       <title>The Heterogeneity of Partnership Trajectories to Childlessness in Germany</title>
       <link>marcelraab.de/publication/raab2019/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+<<<<<<< HEAD
       <guid>marcelraab.de/publication/raab2019/</guid>
       <description>&lt;html&gt;
   &lt;style&gt;
@@ -313,6 +314,10 @@ Figure 1: A fancy pie chart.
     &lt;/div&gt;
   &lt;/section&gt;
 </description>
+=======
+      <guid>https://marcelraab.de/publication/raab2019/</guid>
+      <description></description>
+>>>>>>> parent of 6f2a3b6 (Badge & Teaching Update)
     </item>
     
     <item>
@@ -343,7 +348,11 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
+<<<<<<< HEAD
 &lt;div id=&#34;chart-534867129&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+=======
+&lt;div id=&#34;chart-579321846&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+>>>>>>> parent of 6f2a3b6 (Badge & Teaching Update)
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -353,7 +362,11 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
+<<<<<<< HEAD
         Plotly.plot(&#39;chart-534867129&#39;, chart.data, chart.layout, {responsive: true});
+=======
+        Plotly.plot(&#39;chart-579321846&#39;, chart.data, chart.layout, {responsive: true});
+>>>>>>> parent of 6f2a3b6 (Badge & Teaching Update)
       });
     }, 500 );
   })();
@@ -583,6 +596,7 @@ You found me!
       <title>Destination as a Process: Sibling Similarity in Early Socioeconomic Trajectories</title>
       <link>marcelraab.de/publication/karhula2019/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+<<<<<<< HEAD
       <guid>marcelraab.de/publication/karhula2019/</guid>
       <description>&lt;html&gt;
   &lt;style&gt;
@@ -620,6 +634,10 @@ You found me!
     &lt;/div&gt;
   &lt;/section&gt;
 </description>
+=======
+      <guid>https://marcelraab.de/publication/karhula2019/</guid>
+      <description></description>
+>>>>>>> parent of 6f2a3b6 (Badge & Teaching Update)
     </item>
     
     <item>
@@ -821,6 +839,7 @@ Heinrichsdamm 4
       <title>Pathways to death: The co-occurrence of physical and mental health in the last years of life</title>
       <link>marcelraab.de/publication/raab2018/</link>
       <pubDate>Wed, 16 May 2018 00:00:00 +0000</pubDate>
+<<<<<<< HEAD
       <guid>marcelraab.de/publication/raab2018/</guid>
       <description>&lt;html&gt;
   &lt;style&gt;
@@ -858,12 +877,17 @@ Heinrichsdamm 4
     &lt;/div&gt;
   &lt;/section&gt;
 </description>
+=======
+      <guid>https://marcelraab.de/publication/raab2018/</guid>
+      <description></description>
+>>>>>>> parent of 6f2a3b6 (Badge & Teaching Update)
     </item>
     
     <item>
       <title>Childhood Family Structure and Early Family Formation in East and West Germany</title>
       <link>marcelraab.de/publication/raab2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+<<<<<<< HEAD
       <guid>marcelraab.de/publication/raab2017/</guid>
       <description>&lt;html&gt;
   &lt;style&gt;
@@ -901,6 +925,10 @@ Heinrichsdamm 4
     &lt;/div&gt;
   &lt;/section&gt;
 </description>
+=======
+      <guid>https://marcelraab.de/publication/raab2017/2017-01-01_raab2017/</guid>
+      <description></description>
+>>>>>>> parent of 6f2a3b6 (Badge & Teaching Update)
     </item>
     
     <item>
@@ -926,6 +954,7 @@ Heinrichsdamm 4
     
     <item>
       <title>Sibling Similarity in Family Formation</title>
+<<<<<<< HEAD
       <link>marcelraab.de/publication/raab2014/</link>
       <pubDate>Tue, 14 Oct 2014 00:00:00 +0000</pubDate>
       <guid>marcelraab.de/publication/raab2014/</guid>
@@ -965,12 +994,19 @@ Heinrichsdamm 4
     &lt;/div&gt;
   &lt;/section&gt;
 </description>
+=======
+      <link>https://marcelraab.de/publication/raab2014/2014-01-01_raab2014/</link>
+      <pubDate>Fri, 31 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>https://marcelraab.de/publication/raab2014/2014-01-01_raab2014/</guid>
+      <description></description>
+>>>>>>> parent of 6f2a3b6 (Badge & Teaching Update)
     </item>
     
     <item>
       <title>Beyond Transmission: Intergenerational Patterns of Family Formation Among Middle-Class American Families</title>
       <link>marcelraab.de/publication/fasang2014/</link>
       <pubDate>Fri, 22 Aug 2014 00:00:00 +0000</pubDate>
+<<<<<<< HEAD
       <guid>marcelraab.de/publication/fasang2014/</guid>
       <description>&lt;html&gt;
   &lt;style&gt;
@@ -1008,12 +1044,17 @@ Heinrichsdamm 4
     &lt;/div&gt;
   &lt;/section&gt;
 </description>
+=======
+      <guid>https://marcelraab.de/publication/fasang2014/</guid>
+      <description></description>
+>>>>>>> parent of 6f2a3b6 (Badge & Teaching Update)
     </item>
     
     <item>
       <title>The Transition to Parent Care: Costs, Commitments, and Caregiver Selection Among Children</title>
       <link>marcelraab.de/publication/leopold2014/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+<<<<<<< HEAD
       <guid>marcelraab.de/publication/leopold2014/</guid>
       <description>&lt;html&gt;
   &lt;style&gt;
@@ -1051,12 +1092,17 @@ Heinrichsdamm 4
     &lt;/div&gt;
   &lt;/section&gt;
 </description>
+=======
+      <guid>https://marcelraab.de/publication/leopold2014/2014-01-01_leopold2014/</guid>
+      <description></description>
+>>>>>>> parent of 6f2a3b6 (Badge & Teaching Update)
     </item>
     
     <item>
       <title>The temporal structure of intergenerational exchange: A within-family analysis of parent-child reciprocity</title>
       <link>marcelraab.de/publication/leopold2013/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+<<<<<<< HEAD
       <guid>marcelraab.de/publication/leopold2013/</guid>
       <description>&lt;html&gt;
   &lt;style&gt;
@@ -1094,6 +1140,10 @@ Heinrichsdamm 4
     &lt;/div&gt;
   &lt;/section&gt;
 </description>
+=======
+      <guid>https://marcelraab.de/publication/leopold2013/2013-01-01_leopold2013/</guid>
+      <description></description>
+>>>>>>> parent of 6f2a3b6 (Badge & Teaching Update)
     </item>
     
     <item>
@@ -1116,6 +1166,7 @@ Heinrichsdamm 4
       <title>Short-Term Reciprocity in Late Parent-Child Relationships</title>
       <link>marcelraab.de/publication/leopold2011/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+<<<<<<< HEAD
       <guid>marcelraab.de/publication/leopold2011/</guid>
       <description>&lt;html&gt;
   &lt;style&gt;
@@ -1153,6 +1204,10 @@ Heinrichsdamm 4
     &lt;/div&gt;
   &lt;/section&gt;
 </description>
+=======
+      <guid>https://marcelraab.de/publication/leopold2011/2011-01-01_leopold2011/</guid>
+      <description></description>
+>>>>>>> parent of 6f2a3b6 (Badge & Teaching Update)
     </item>
     
     <item>
@@ -1167,6 +1222,7 @@ Heinrichsdamm 4
       <title>Globalisierungsprozesse in modernen Gesellschaften</title>
       <link>marcelraab.de/publication/blossfeld2009/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+<<<<<<< HEAD
       <guid>marcelraab.de/publication/blossfeld2009/</guid>
       <description>&lt;html&gt;
   &lt;style&gt;
@@ -1204,12 +1260,17 @@ Heinrichsdamm 4
     &lt;/div&gt;
   &lt;/section&gt;
 </description>
+=======
+      <guid>https://marcelraab.de/publication/blossfeld2009/2009-01-01_blossfeld2009/</guid>
+      <description></description>
+>>>>>>> parent of 6f2a3b6 (Badge & Teaching Update)
     </item>
     
     <item>
       <title>GlobalIndex: A Sociological Approach to Globalization Measurement</title>
       <link>marcelraab.de/publication/raab2008/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+<<<<<<< HEAD
       <guid>marcelraab.de/publication/raab2008/</guid>
       <description>&lt;html&gt;
   &lt;style&gt;
@@ -1247,6 +1308,10 @@ Heinrichsdamm 4
     &lt;/div&gt;
   &lt;/section&gt;
 </description>
+=======
+      <guid>https://marcelraab.de/publication/raab2008/</guid>
+      <description></description>
+>>>>>>> parent of 6f2a3b6 (Badge & Teaching Update)
     </item>
     
   </channel>
