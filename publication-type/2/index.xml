@@ -17,7 +17,42 @@
       <link>https://marcelraab.de/publication/raab2019/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
       <guid>https://marcelraab.de/publication/raab2019/</guid>
-      <description></description>
+      <description>&lt;html&gt;
+  &lt;style&gt;
+    section {
+        background: white;
+        color: black;
+        border-radius: 1em;
+        padding: 1em;
+        left: 50% }
+    #inner {
+        display: inline-block;
+        display: flex;
+        align-items: center;
+        justify-content: center }
+  &lt;/style&gt;
+  &lt;section&gt;
+    &lt;div id=&#34;inner&#34;&gt;
+      &lt;script type=&#39;text/javascript&#39; src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/script&gt;
+        &lt;span style=&#34;float:left&#34;; 
+          class=&#34;__dimensions_badge_embed__&#34; 
+          data-doi=&#34;10.1007/s10680-019-09519-y&#34; 
+          data-hide-zero-citations=&#34;true&#34; 
+          data-legend=&#34;always&#34;&gt;
+        &lt;/span&gt;
+      &lt;script async src=&#34;https://badge.dimensions.ai/badge.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+        &lt;div  style=&#34;float:right&#34;; 
+          data-link-target=&#34;_blank&#34; 
+          data-badge-details=&#34;right&#34; 
+          data-badge-type=&#34;medium-donut&#34;
+          data-doi=&#34;10.1007/s10680-019-09519-y&#34;   
+          data-condensed=&#34;true&#34; 
+          data-hide-no-mentions=&#34;true&#34; 
+          class=&#34;altmetric-embed&#34;&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/section&gt;
+</description>
     </item>
     
     <item>
@@ -25,7 +60,42 @@
       <link>https://marcelraab.de/publication/karhula2019/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
       <guid>https://marcelraab.de/publication/karhula2019/</guid>
-      <description></description>
+      <description>&lt;html&gt;
+  &lt;style&gt;
+    section {
+        background: white;
+        color: black;
+        border-radius: 1em;
+        padding: 1em;
+        left: 50% }
+    #inner {
+        display: inline-block;
+        display: flex;
+        align-items: center;
+        justify-content: center }
+  &lt;/style&gt;
+  &lt;section&gt;
+    &lt;div id=&#34;inner&#34;&gt;
+      &lt;script type=&#39;text/javascript&#39; src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/script&gt;
+        &lt;span style=&#34;float:left&#34;; 
+          class=&#34;__dimensions_badge_embed__&#34; 
+          data-doi=&#34;10.1016/j.alcr.2019.04.015&#34; 
+          data-hide-zero-citations=&#34;true&#34; 
+          data-legend=&#34;always&#34;&gt;
+        &lt;/span&gt;
+      &lt;script async src=&#34;https://badge.dimensions.ai/badge.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+        &lt;div  style=&#34;float:right&#34;; 
+          data-link-target=&#34;_blank&#34; 
+          data-badge-details=&#34;right&#34; 
+          data-badge-type=&#34;medium-donut&#34;
+          data-doi=&#34;10.1016/j.alcr.2019.04.015&#34;   
+          data-condensed=&#34;true&#34; 
+          data-hide-no-mentions=&#34;true&#34; 
+          class=&#34;altmetric-embed&#34;&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/section&gt;
+</description>
     </item>
     
     <item>
@@ -33,7 +103,42 @@
       <link>https://marcelraab.de/publication/raab2018/</link>
       <pubDate>Wed, 16 May 2018 00:00:00 +0000</pubDate>
       <guid>https://marcelraab.de/publication/raab2018/</guid>
-      <description></description>
+      <description>&lt;html&gt;
+  &lt;style&gt;
+    section {
+        background: white;
+        color: black;
+        border-radius: 1em;
+        padding: 1em;
+        left: 50% }
+    #inner {
+        display: inline-block;
+        display: flex;
+        align-items: center;
+        justify-content: center }
+  &lt;/style&gt;
+  &lt;section&gt;
+    &lt;div id=&#34;inner&#34;&gt;
+      &lt;script type=&#39;text/javascript&#39; src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/script&gt;
+        &lt;span style=&#34;float:left&#34;; 
+          class=&#34;__dimensions_badge_embed__&#34; 
+          data-doi=&#34;10.4054/DemRes.2018.38.53&#34; 
+          data-hide-zero-citations=&#34;true&#34; 
+          data-legend=&#34;always&#34;&gt;
+        &lt;/span&gt;
+      &lt;script async src=&#34;https://badge.dimensions.ai/badge.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+        &lt;div  style=&#34;float:right&#34;; 
+          data-link-target=&#34;_blank&#34; 
+          data-badge-details=&#34;right&#34; 
+          data-badge-type=&#34;medium-donut&#34;
+          data-doi=&#34;10.4054/DemRes.2018.38.53&#34;   
+          data-condensed=&#34;true&#34; 
+          data-hide-no-mentions=&#34;true&#34; 
+          class=&#34;altmetric-embed&#34;&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/section&gt;
+</description>
     </item>
     
     <item>
@@ -41,7 +146,42 @@
       <link>https://marcelraab.de/publication/raab2017/2017-01-01_raab2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://marcelraab.de/publication/raab2017/2017-01-01_raab2017/</guid>
-      <description></description>
+      <description>&lt;html&gt;
+  &lt;style&gt;
+    section {
+        background: white;
+        color: black;
+        border-radius: 1em;
+        padding: 1em;
+        left: 50% }
+    #inner {
+        display: inline-block;
+        display: flex;
+        align-items: center;
+        justify-content: center }
+  &lt;/style&gt;
+  &lt;section&gt;
+    &lt;div id=&#34;inner&#34;&gt;
+      &lt;script type=&#39;text/javascript&#39; src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/script&gt;
+        &lt;span style=&#34;float:left&#34;; 
+          class=&#34;__dimensions_badge_embed__&#34; 
+          data-doi=&#34;10.1111/jomf.12333&#34; 
+          data-hide-zero-citations=&#34;true&#34; 
+          data-legend=&#34;always&#34;&gt;
+        &lt;/span&gt;
+      &lt;script async src=&#34;https://badge.dimensions.ai/badge.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+        &lt;div  style=&#34;float:right&#34;; 
+          data-link-target=&#34;_blank&#34; 
+          data-badge-details=&#34;right&#34; 
+          data-badge-type=&#34;medium-donut&#34;
+          data-doi=&#34;10.1111/jomf.12333&#34;   
+          data-condensed=&#34;true&#34; 
+          data-hide-no-mentions=&#34;true&#34; 
+          class=&#34;altmetric-embed&#34;&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/section&gt;
+</description>
     </item>
     
     <item>
@@ -49,7 +189,42 @@
       <link>https://marcelraab.de/publication/raab2014/2014-01-01_raab2014/</link>
       <pubDate>Fri, 31 Oct 2014 00:00:00 +0000</pubDate>
       <guid>https://marcelraab.de/publication/raab2014/2014-01-01_raab2014/</guid>
-      <description></description>
+      <description>&lt;html&gt;
+  &lt;style&gt;
+    section {
+        background: white;
+        color: black;
+        border-radius: 1em;
+        padding: 1em;
+        left: 50% }
+    #inner {
+        display: inline-block;
+        display: flex;
+        align-items: center;
+        justify-content: center }
+  &lt;/style&gt;
+  &lt;section&gt;
+    &lt;div id=&#34;inner&#34;&gt;
+      &lt;script type=&#39;text/javascript&#39; src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/script&gt;
+        &lt;span style=&#34;float:left&#34;; 
+          class=&#34;__dimensions_badge_embed__&#34; 
+          data-doi=&#34;10.1007/s13524-014-0341-6&#34; 
+          data-hide-zero-citations=&#34;true&#34; 
+          data-legend=&#34;always&#34;&gt;
+        &lt;/span&gt;
+      &lt;script async src=&#34;https://badge.dimensions.ai/badge.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+        &lt;div  style=&#34;float:right&#34;; 
+          data-link-target=&#34;_blank&#34; 
+          data-badge-details=&#34;right&#34; 
+          data-badge-type=&#34;medium-donut&#34;
+          data-doi=&#34;10.1007/s13524-014-0341-6&#34;   
+          data-condensed=&#34;true&#34; 
+          data-hide-no-mentions=&#34;true&#34; 
+          class=&#34;altmetric-embed&#34;&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/section&gt;
+</description>
     </item>
     
     <item>
@@ -57,7 +232,42 @@
       <link>https://marcelraab.de/publication/fasang2014/</link>
       <pubDate>Fri, 22 Aug 2014 00:00:00 +0000</pubDate>
       <guid>https://marcelraab.de/publication/fasang2014/</guid>
-      <description></description>
+      <description>&lt;html&gt;
+  &lt;style&gt;
+    section {
+        background: white;
+        color: black;
+        border-radius: 1em;
+        padding: 1em;
+        left: 50% }
+    #inner {
+        display: inline-block;
+        display: flex;
+        align-items: center;
+        justify-content: center }
+  &lt;/style&gt;
+  &lt;section&gt;
+    &lt;div id=&#34;inner&#34;&gt;
+      &lt;script type=&#39;text/javascript&#39; src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/script&gt;
+        &lt;span style=&#34;float:left&#34;; 
+          class=&#34;__dimensions_badge_embed__&#34; 
+          data-doi=&#34;10.1007/s13524-014-0322-9&#34; 
+          data-hide-zero-citations=&#34;true&#34; 
+          data-legend=&#34;always&#34;&gt;
+        &lt;/span&gt;
+      &lt;script async src=&#34;https://badge.dimensions.ai/badge.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+        &lt;div  style=&#34;float:right&#34;; 
+          data-link-target=&#34;_blank&#34; 
+          data-badge-details=&#34;right&#34; 
+          data-badge-type=&#34;medium-donut&#34;
+          data-doi=&#34;10.1007/s13524-014-0322-9&#34;   
+          data-condensed=&#34;true&#34; 
+          data-hide-no-mentions=&#34;true&#34; 
+          class=&#34;altmetric-embed&#34;&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/section&gt;
+</description>
     </item>
     
     <item>
@@ -65,7 +275,42 @@
       <link>https://marcelraab.de/publication/leopold2014/2014-01-01_leopold2014/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       <guid>https://marcelraab.de/publication/leopold2014/2014-01-01_leopold2014/</guid>
-      <description></description>
+      <description>&lt;html&gt;
+  &lt;style&gt;
+    section {
+        background: white;
+        color: black;
+        border-radius: 1em;
+        padding: 1em;
+        left: 50% }
+    #inner {
+        display: inline-block;
+        display: flex;
+        align-items: center;
+        justify-content: center }
+  &lt;/style&gt;
+  &lt;section&gt;
+    &lt;div id=&#34;inner&#34;&gt;
+      &lt;script type=&#39;text/javascript&#39; src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/script&gt;
+        &lt;span style=&#34;float:left&#34;; 
+          class=&#34;__dimensions_badge_embed__&#34; 
+          data-doi=&#34;10.1111/jomf.12099&#34; 
+          data-hide-zero-citations=&#34;true&#34; 
+          data-legend=&#34;always&#34;&gt;
+        &lt;/span&gt;
+      &lt;script async src=&#34;https://badge.dimensions.ai/badge.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+        &lt;div  style=&#34;float:right&#34;; 
+          data-link-target=&#34;_blank&#34; 
+          data-badge-details=&#34;right&#34; 
+          data-badge-type=&#34;medium-donut&#34;
+          data-doi=&#34;10.1111/jomf.12099&#34;   
+          data-condensed=&#34;true&#34; 
+          data-hide-no-mentions=&#34;true&#34; 
+          class=&#34;altmetric-embed&#34;&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/section&gt;
+</description>
     </item>
     
     <item>
@@ -73,7 +318,42 @@
       <link>https://marcelraab.de/publication/leopold2013/2013-01-01_leopold2013/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
       <guid>https://marcelraab.de/publication/leopold2013/2013-01-01_leopold2013/</guid>
-      <description></description>
+      <description>&lt;html&gt;
+  &lt;style&gt;
+    section {
+        background: white;
+        color: black;
+        border-radius: 1em;
+        padding: 1em;
+        left: 50% }
+    #inner {
+        display: inline-block;
+        display: flex;
+        align-items: center;
+        justify-content: center }
+  &lt;/style&gt;
+  &lt;section&gt;
+    &lt;div id=&#34;inner&#34;&gt;
+      &lt;script type=&#39;text/javascript&#39; src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/script&gt;
+        &lt;span style=&#34;float:left&#34;; 
+          class=&#34;__dimensions_badge_embed__&#34; 
+          data-doi=&#34;10.1016/j.jaging.2013.05.001&#34; 
+          data-hide-zero-citations=&#34;true&#34; 
+          data-legend=&#34;always&#34;&gt;
+        &lt;/span&gt;
+      &lt;script async src=&#34;https://badge.dimensions.ai/badge.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+        &lt;div  style=&#34;float:right&#34;; 
+          data-link-target=&#34;_blank&#34; 
+          data-badge-details=&#34;right&#34; 
+          data-badge-type=&#34;medium-donut&#34;
+          data-doi=&#34;10.1016/j.jaging.2013.05.001&#34;   
+          data-condensed=&#34;true&#34; 
+          data-hide-no-mentions=&#34;true&#34; 
+          class=&#34;altmetric-embed&#34;&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/section&gt;
+</description>
     </item>
     
     <item>
@@ -81,7 +361,42 @@
       <link>https://marcelraab.de/publication/leopold2011/2011-01-01_leopold2011/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
       <guid>https://marcelraab.de/publication/leopold2011/2011-01-01_leopold2011/</guid>
-      <description></description>
+      <description>&lt;html&gt;
+  &lt;style&gt;
+    section {
+        background: white;
+        color: black;
+        border-radius: 1em;
+        padding: 1em;
+        left: 50% }
+    #inner {
+        display: inline-block;
+        display: flex;
+        align-items: center;
+        justify-content: center }
+  &lt;/style&gt;
+  &lt;section&gt;
+    &lt;div id=&#34;inner&#34;&gt;
+      &lt;script type=&#39;text/javascript&#39; src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/script&gt;
+        &lt;span style=&#34;float:left&#34;; 
+          class=&#34;__dimensions_badge_embed__&#34; 
+          data-doi=&#34;10.1111/j.1741-3737.2010.00792.x&#34; 
+          data-hide-zero-citations=&#34;true&#34; 
+          data-legend=&#34;always&#34;&gt;
+        &lt;/span&gt;
+      &lt;script async src=&#34;https://badge.dimensions.ai/badge.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+        &lt;div  style=&#34;float:right&#34;; 
+          data-link-target=&#34;_blank&#34; 
+          data-badge-details=&#34;right&#34; 
+          data-badge-type=&#34;medium-donut&#34;
+          data-doi=&#34;10.1111/j.1741-3737.2010.00792.x&#34;   
+          data-condensed=&#34;true&#34; 
+          data-hide-no-mentions=&#34;true&#34; 
+          class=&#34;altmetric-embed&#34;&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/section&gt;
+</description>
     </item>
     
     <item>
@@ -97,7 +412,42 @@
       <link>https://marcelraab.de/publication/raab2008/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
       <guid>https://marcelraab.de/publication/raab2008/</guid>
-      <description></description>
+      <description>&lt;html&gt;
+  &lt;style&gt;
+    section {
+        background: white;
+        color: black;
+        border-radius: 1em;
+        padding: 1em;
+        left: 50% }
+    #inner {
+        display: inline-block;
+        display: flex;
+        align-items: center;
+        justify-content: center }
+  &lt;/style&gt;
+  &lt;section&gt;
+    &lt;div id=&#34;inner&#34;&gt;
+      &lt;script type=&#39;text/javascript&#39; src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/script&gt;
+        &lt;span style=&#34;float:left&#34;; 
+          class=&#34;__dimensions_badge_embed__&#34; 
+          data-doi=&#34;10.1177/0268580908090729&#34; 
+          data-hide-zero-citations=&#34;true&#34; 
+          data-legend=&#34;always&#34;&gt;
+        &lt;/span&gt;
+      &lt;script async src=&#34;https://badge.dimensions.ai/badge.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+        &lt;div  style=&#34;float:right&#34;; 
+          data-link-target=&#34;_blank&#34; 
+          data-badge-details=&#34;right&#34; 
+          data-badge-type=&#34;medium-donut&#34;
+          data-doi=&#34;10.1177/0268580908090729&#34;   
+          data-condensed=&#34;true&#34; 
+          data-hide-no-mentions=&#34;true&#34; 
+          class=&#34;altmetric-embed&#34;&gt;
+        &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/section&gt;
+</description>
     </item>
     
   </channel>
