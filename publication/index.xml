@@ -5,12 +5,20 @@
     <link>https://marcelraab.de/publication/</link>
       <atom:link href="https://marcelraab.de/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 06 Apr 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://marcelraab.de/images/icon_hud161faa3126aab72ef396b267d8f191d_2937_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>https://marcelraab.de/publication/</link>
     </image>
+    
+    <item>
+      <title>Sequence Analysis</title>
+      <link>https://marcelraab.de/publication/raab2022/</link>
+      <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://marcelraab.de/publication/raab2022/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The Heterogeneity of Partnership Trajectories to Childlessness in Germany</title>

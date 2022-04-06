@@ -5,12 +5,20 @@
     <link>https://marcelraab.de/author/marcel-raab/</link>
       <atom:link href="https://marcelraab.de/author/marcel-raab/index.xml" rel="self" type="application/rss+xml" />
     <description>Marcel Raab</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 06 Apr 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://marcelraab.de/author/marcel-raab/avatar_hu111f1d26eef39dd823f72757b43fff9e_287895_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Marcel Raab</title>
       <link>https://marcelraab.de/author/marcel-raab/</link>
     </image>
+    
+    <item>
+      <title>Sequence Analysis</title>
+      <link>https://marcelraab.de/publication/raab2022/</link>
+      <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://marcelraab.de/publication/raab2022/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
